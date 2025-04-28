@@ -1,0 +1,27 @@
+<!--List of three tourist places of kashmir-->
+
+    <html>
+        <head>
+            <title>Three tourist places of kashmir</title>
+        </head>
+        <body>
+            Kashmir is known for its beauty around the world, often called as paradise on earth.
+            <p style="color: rgb(179, 83, 19);font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" >Kashmir is a beautiful 
+            region known for its scenic landscapes, tranquil lakes, and lush valleys. Here are three important
+            tourist places in Kashmir:</p>
+            <p></p>
+            <h2 style="color:darkmagenta">Srinagar:</h2>
+            The summer capital of Jammu and Kashmir, Srinagar is famous for its picturesque Dal Lake, houseboats, Mughal Gardens, and vibrant
+            markets.<p>The Shankaracharya Temple and Hazratbal Shrine are also notable landmarks. The houseboats on Dal Lake are a must-visit experience.</p>
+            <h2 style="color:darkmagenta">Gulmarg:</h2>
+            Known as the "Meadow of Flowers," Gulmarg is a popular hill station and ski resort in the winter. It offers breathtaking views of snow-covered <p>
+            mountains and lush meadows, making it a favorite destination for adventure sports, especially skiing and snowboarding.</p>
+            
+            <h2 style="color:darkmagenta">Pahalgam:</h2>
+            A serene town located along the Lidder River, Pahalgam is known for its natural beauty. Surrounded by pine forests and snow-capped mountains,
+            <p> it serves as a base for pilgrims going to the Amarnath Cave and is also popular for trekking, fishing, and horse riding.</p>
+            <p>
+            These locations are just a glimpse of what Kashmir has to offer, with its majestic beauty and tranquil atmosphere.            
+            </p>
+        </body>
+    </html>
